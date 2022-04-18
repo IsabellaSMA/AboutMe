@@ -13,3 +13,6 @@
 <img width= "40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsabellaSMA&layout=compactIsabellaSMA&count_private=true&theme=cobalt">
     
 </div>
+<div>
+ ![Snake animation](https://github.com/rafaballerini/IsabellaSMA/blob/output/github-contribution-grid-snake.svg)
+ </div>
