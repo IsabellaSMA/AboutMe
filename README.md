@@ -3,6 +3,7 @@
  Estou iniciando no mundo da programação através do front-end e pretendo trabalhar com design tanto de Jogos quanto de aplicações  🕹️
 
 - 🇧🇷
+- Cursando Jogos Digitais..
 - 🖥️ No momento estou aprendendo POO (C#), Python, JavaScript e um pouco de Lógica de programação 
 - 🤔 Tenho algumas dificuldades no C#
 
