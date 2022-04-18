@@ -1,16 +1,15 @@
-### Hi there 👋
+### Olá, como vai? 👋 Sou a Isabella Alves, prazer!   
 
-<!--
-**IsabellaSMA/IsabellaSMA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ Estou iniciando no mundo da programação através do front-end e pretendo trabalhar com design tanto de Jogos quanto de aplicações  🕹️
 
-Here are some ideas to get you started:
+- 🇧🇷
+- 🖥️ No momento estou aprendendo POO (C#), Python, JavaScript e um pouco Lógica de programação 
+- 🤔 Tenho algumas dificuldades no C#
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div> 
+ 
+  <a href= "https://github.com/IsabellaSMA">
+    <img width="50%" src="https://github-readme-stats.vercel.app/api?username=IsabellaSMA&count_private=true&show_icons=true&theme=radical">
+<img width= "40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsabellaSMA&layout=compactIsabellaSMA&count_private=true&theme=cobalt">
+    
+</div>
