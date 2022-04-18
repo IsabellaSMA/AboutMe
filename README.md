@@ -14,5 +14,6 @@
     
 </div>
 <div>
+ 
  ![Snake animation](https://github.com/IsabellaSMA/IsabellaSMA/blob/output/github-contribution-grid-snake.svg)
  </div>
