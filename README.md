@@ -19,7 +19,7 @@
  </div>
 
 <div> 
- 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
   <a href= "https://github.com/IsabellaSMA">
     <img width="50%" src="https://github-readme-stats.vercel.app/api?username=IsabellaSMA&count_private=true&show_icons=true&theme=radical">
 <img width= "40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsabellaSMA&layout=compactIsabellaSMA&count_private=true&theme=cobalt">
@@ -27,5 +27,5 @@
 </div>
 <div>
  
-(https://github.com/IsabellaSMA/IsabellaSMA/blob/output/github-contribution-grid-snake.svg)
+[![Snake Counter](https://github.com/IsabellaSMA/IsabellaSMA/blob/output/github-contribution-grid-snake.svg)
  </div>
