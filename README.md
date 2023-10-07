@@ -4,9 +4,9 @@
 
 - 🇧🇷
 - Cursando Jogos Digitais..
-- 🖥️ No momento estou aprendendo POO (C#), Python, JavaScript e um pouco de Lógica de programação 
+- 🖥️ No momento estou aprendendo C#  e Lógica de programação 
 - 🤔 Tenho algumas dificuldades no C#
-
+- Interesses:
 <div>
  <img width= "40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
  <img width= "32"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
