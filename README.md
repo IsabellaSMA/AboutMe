@@ -26,6 +26,5 @@
     
 </div>
 <div>
- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
-[![Snake Counter](https://github.com/IsabellaSMA/IsabellaSMA/blob/output/github-contribution-grid-snake.svg)
+
  </div>
