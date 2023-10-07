@@ -15,7 +15,7 @@
  <img width="32"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
  <img width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
 
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=IsabellaSMA)](https://github.com/anuraghazra/github-readme-stats)
  </div>
 
 <div> 
