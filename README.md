@@ -15,6 +15,10 @@
  <img width="32"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
  <img width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
 
+ <img width="32" src= "https://www.google.com/url?sa=i&url=https%3A%2F%2Fcommunity.aseprite.org%2Ft%2Faseprite-v1-2-27%2F8720&psig=AOvVaw0onpfCB66bT175YmQ3siy1&ust=1702507135663000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCNit6br7ioMDFQAAAAAdAAAAABAD" />
+
+ 
+
 
  </div>
 
