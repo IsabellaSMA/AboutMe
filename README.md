@@ -14,7 +14,7 @@
  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
  <img width="32"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
  <img width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
- <img width= "32"scr = "<iconify-icon icon="simple-icons:aseprite"></iconify-icon>" />
+ <img width= "32"scr = "<iconify-icon icon="simple-icons:aseprite"></iconify-icon> ""/>
  
 </div>
 
