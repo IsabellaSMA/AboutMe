@@ -16,7 +16,7 @@
  <img width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
 <img width= "35" src= "https://upload.wikimedia.org/wikipedia/commons/3/31/Calligra_Krita_icon.svg" />
 <img width= "40" src = "https://www.svgrepo.com/show/329985/aseprite.svg" />
-<img width= "40" src = "file:///C:/Users/sjama/Downloads/aseprite-svgrepo-com.svg" />
+
 
 </div>
 
