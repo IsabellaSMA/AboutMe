@@ -24,8 +24,8 @@
 <div> 
 
   <a href= "https://github.com/IsabellaSMA">
-    <img width="50%" src="https://github-readme-stats.vercel.app/api?username=IsabellaSMA&count_private=true&show_icons=true&theme=radical">
-<img width= "40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsabellaSMA&layout=compactIsabellaSMA&count_private=true&theme=cobalt">
+    <img width="50%" src="https://github-readme-stats.vercel.app/api?username=IsabellaSMA&count_private=true&show_icons=true&theme=cobalt">
+<img width= "40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsabellaSMA&layout=donut&theme=cobalt">
     
 </div>
 <div>
