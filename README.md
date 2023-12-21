@@ -35,5 +35,7 @@ Estudando:
    
    ##   
 <div>
+<a href= "https://www.instagram.com/1bby_artz/?next=%2Fexplore%2F"><img width= "35" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Instagram_logo_2022.svg/640px-Instagram_logo_2022.svg.png">
 <a href= "https://br.linkedin.com/in/isabellasma" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+<a href= "https://www.deviantart.com/1bbyartz"><img width= "80" src= "https://upload.wikimedia.org/wikipedia/commons/7/7b/DeviantArt_Logo.svg">
  </div>
