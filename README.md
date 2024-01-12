@@ -1,6 +1,8 @@
-### Olá, como vai? 👋 Sou a Isabella Alves, prazer!   
 
- Estou iniciando no mundo da programação através do front-end e pretendo trabalhar com design tanto de Jogos quanto de aplicações  🕹️
+
+### Olá, como vai? 👋 Sou a Isabella Alves, prazer! 
+<img width= "30%" src= "https://github.com/IsabellaSMA/IsabellaSMA/blob/Main/animacaogithub.gif"> 
+Estou iniciando no mundo da programação através do back-end e pretendo trabalhar com design tanto de Jogos quanto de aplicações  🕹️
 
 - <img width= "35" src= "https://images.emojiterra.com/google/noto-emoji/unicode-15.1/color/svg/1f1e7-1f1f7.svg">
 - Formada em Jogos Digitais na Etec De Carapicuíba 
