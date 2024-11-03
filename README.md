@@ -6,7 +6,7 @@ Estou iniciando no mundo da programação através do back-end e pretendo trabal
 
 - <img width= "35" src= "https://images.emojiterra.com/google/noto-emoji/unicode-15.1/color/svg/1f1e7-1f1f7.svg">
 - Formada em Jogos Digitais na Etec De Carapicuíba 
-- 🖥️ No momento estou estudando C# ,Lógica de programação e game Design
+- 🖥️ No momento estou estudando C# ,C Lógica de programação e Python
 </div>
 
 ## Habilidades:
