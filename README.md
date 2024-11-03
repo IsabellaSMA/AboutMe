@@ -1,7 +1,9 @@
 
-
 ### Olá, como vai? 👋 Sou a Isabella Alves, prazer! 
-<img width= "50%" src= "https://github.com/IsabellaSMA/IsabellaSMA/blob/Main/animacaogithub.gif"> 
+<p align="center">
+ <img width= "50%" src= "https://github.com/IsabellaSMA/IsabellaSMA/blob/Main/animacaogithub.gif"/> 
+</p>
+
 Estou iniciando no mundo da programação através do back-end e pretendo trabalhar com design tanto de Jogos quanto de aplicações  🕹️
 
 - <img width= "35" src= "https://images.emojiterra.com/google/noto-emoji/unicode-15.1/color/svg/1f1e7-1f1f7.svg">
