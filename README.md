@@ -17,6 +17,7 @@ Estou iniciando no mundo da programação através do back-end e pretendo trabal
 
 
 <div>
+ 
 ## Estudando:
 <br>
  <img width= "40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
