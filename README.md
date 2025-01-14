@@ -15,7 +15,6 @@ Estou iniciando no mundo da programação através do back-end e pretendo trabal
  
 <img width= "35" src= "https://upload.wikimedia.org/wikipedia/commons/3/31/Calligra_Krita_icon.svg" /> <img width= "35" src = "https://www.svgrepo.com/show/329985/aseprite.svg" />
 
-
 <div>
  
 ## Estudando:
@@ -29,11 +28,11 @@ Estou iniciando no mundo da programação através do back-end e pretendo trabal
 <div> 
 
  ##
- 
+ <div>
   <a href= "https://github.com/IsabellaSMA">
-   <img width= "50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsabellaSMA&layout=donut&theme=cobalt">    
    <img width="50%" src="https://github-readme-stats.vercel.app/api?username=IsabellaSMA&count_private=true&show_icons=true&theme=cobalt">
-
+   <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsabellaSMA&hide_progress=true&theme=cobalt")> 
+ </div>
 </div>
    
    ## Redes sociais:  
