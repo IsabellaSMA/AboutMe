@@ -1,5 +1,5 @@
 
-<h1>Olá, como vai? 👋 Sou a Isabella Alves, prazer!</h1>
+<h1>Olá, como vai?  Sou a Isabella Alves, prazer!</h1>
 
 <h3 align="center">Artista e programadora</h3>
 <p align="center">
@@ -7,27 +7,44 @@ Formada em Desenvolvimento de Jogos Digitais pela ETEC de Carapicuíba e atualme
 </p>
 
 #
-<img align="right" alt="" height="300px" src="https://github.com/IsabellaSMA/IsabellaSMA/blob/Main/animacaogithub.gif">
-<h3 align="left">Redes Sociais:</h3> 
-<div align="left">
- <a href= "https://www.instagram.com/1bby_artz/?next=%2Fexplore%2F"><img width= "30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Instagram_logo_2022.svg/640px-Instagram_logo_2022.svg.png">
- <a href= "https://br.linkedin.com/in/isabellasma" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
- <a href= "https://www.deviantart.com/1bbyartz"><img width= "85" src= "">
+<img align="right" alt="" width="290px" src="https://github.com/IsabellaSMA/IsabellaSMA/blob/Main/animacaogithub.gif">
+<h3 align="center">Redes Sociais</h3> 
+<div align="center">
+ <a href= "https://www.instagram.com/1bby_artz/?next=%2Fexplore%2F">
+  <img width= "30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Instagram_logo_2022.svg/640px-Instagram_logo_2022.svg.png">
+ </a>
+ <a href= "https://br.linkedin.com/in/isabellasma" target="blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+ </a>
+ <a href= "https://www.deviantart.com/1bbyartz">
+  <img width= "85" src= "https://github.com/IsabellaSMA/IsabellaSMA/blob/main/deviantart-svgrepo-com.png">
+ </a>
  </div>
 
+<br>
 
-<h3 align="left">Habilidades</h3>
+<h3 align="center">Habilidades</h3> <br>
 <div align="left">
  <img width= "35" src= "https://upload.wikimedia.org/wikipedia/commons/3/31/Calligra_Krita_icon.svg" />
  <img width= "35" src = "https://community.aseprite.org/uploads/default/original/2X/6/66c33251292331d29585d32632c3870651b66e01.png" />
 </div>
+<br>
 
  #
- <div>
-  <a href= "https://github.com/IsabellaSMA">
-   <img width="50%" src="https://github-readme-stats.vercel.app/api?username=IsabellaSMA&count_private=true&show_icons=true&theme=cobalt">
-   <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsabellaSMA&hide_progress=true&theme=cobalt")> 
- </div>
+ 
+<div style="text-align: center;" align="center">
+  <h3>Contribuições</h3>
+  <br>
+ <!--Commits: GITHUB STATS-->
+ <!--title color do primeiro é a cor da bolinha: 00ced1-->
+ <!--A cor do texto e icons será: 00ced1-->
+  <!--25837e border color; -->
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=IsabellaSMA&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&bg_color=c1e6e2&title_color=25837e&text_color=20b2aa&border_radius=3&border_color=25837e&icon_color=00ced1" alt="GitHub stats">
+ 
+<!--MOST USED LANGUAGES-->
+  <a href="https://github.com/IsabellaSMA/github-readme-stats"> 
+    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=IsabellaSMA&line_height=10&card_width=290&layout=compact&hide_title=false&count_private=true&langs_count=6&show_icons=true&title_color=20b2aa&bg_color=c1e6e2&text_color=25837e&border_radius=3&border_color=25837e&count_private=true&hide_progress=true" alt="Most Used Languages">
+  </a>
 </div>
-   
-  
+
+
