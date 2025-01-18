@@ -1,27 +1,33 @@
 
-<h1>Olá, como vai?  Sou a Isabella Alves, prazer!</h1>
+<h1 align=center>Olá, como vai?  Sou a Isabella Alves, prazer!</h1> <br>
 
-<h3 align="center">Artista e programadora</h3>
+<h3 align="center">Artista e programadora</h3> <br>
 <p align="center">
-Formada em Desenvolvimento de Jogos Digitais pela ETEC de Carapicuíba e atualmente cursando Análise e desenvolvimento de Sistemas na Anhanguera-Osasco.Estou iniciando minha carreira em desenvolvimento de Software e projeto jogos como hobby.🕹️
+Formada em Desenvolvimento de Jogos Digitais pela ETEC de Carapicuíba e atualmente cursando Análise e desenvolvimento de Sistemas na Faculdade Anhanguera Osasco.Estou iniciando minha carreira em desenvolvimento de Software e projeto jogos como hobby.🕹️
 </p>
 
 #
 <img align="right" alt="" width="290px" src="https://github.com/IsabellaSMA/IsabellaSMA/blob/Main/animacaogithub.gif">
+
 <h3 align="center">Redes Sociais</h3> 
 <div align="center">
  <a href= "https://www.instagram.com/1bby_artz/?next=%2Fexplore%2F">
   <img width= "30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Instagram_logo_2022.svg/640px-Instagram_logo_2022.svg.png">
  </a>
- <a href= "https://br.linkedin.com/in/isabellasma" target="blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
- </a>
  <a href= "https://www.deviantart.com/1bbyartz">
   <img width= "85" src= "https://github.com/IsabellaSMA/IsabellaSMA/blob/main/deviantart-svgrepo-com.png">
  </a>
- </div>
+ <a href="itch.io/IsabellaSMA">
+  <img width="30" src="https://github.com/itchio/itch.io/blob/master/logos/app-icon.png" alt="Itch.io Logo">
+ </a>
+ 
+ </div> 
 
-<br>
+ <h3 align="center">Contato</h3>
+ <div align="center">
+  <a href = "mailto:silvaisabella721@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/isabellasma" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  
 
 <h3 align="center">Habilidades</h3> <br>
 <div align="left">
