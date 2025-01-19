@@ -3,7 +3,7 @@
 
 <h3 align="center">Artista e programadora</h3> <br>
 <p align="center">
-Formada em Desenvolvimento de Jogos Digitais pela ETEC de Carapicuíba e atualmente cursando Análise e desenvolvimento de Sistemas na Faculdade Anhanguera Osasco.Estou iniciando minha carreira em desenvolvimento de Software e projeto jogos como hobby.🕹️
+Formada em Desenvolvimento de Jogos Digitais pela ETEC de Carapicuíba e atualmente cursando Análise e Desenvolvimento de Sistemas na Faculdade Anhanguera Osasco.Estou iniciando minha carreira em Engenharia de Software e gosto de idealizar e projetar jogos como hobby.🕹️
 </p>
 
 #
@@ -17,7 +17,7 @@ Formada em Desenvolvimento de Jogos Digitais pela ETEC de Carapicuíba e atualme
  <a href= "https://www.deviantart.com/1bbyartz">
   <img width= "85" src= "https://github.com/IsabellaSMA/IsabellaSMA/blob/main/deviantart-svgrepo-com.png">
  </a>
- <a href="itch.io/IsabellaSMA">
+ <a href="https://isabellasma.itch.io/">
   <img width="30" src="https://github.com/itchio/itch.io/blob/master/logos/app-icon.png" alt="Itch.io Logo">
  </a>
  
