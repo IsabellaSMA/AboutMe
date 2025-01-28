@@ -1,9 +1,12 @@
 
 <h1 align=center>Olá, como vai?  Sou a Isabella Alves, prazer!</h1> <br>
 
+<p align="center">
+ <img alt="banner_IsabellaSMA" src="https://github.com/IsabellaSMA/IsabellaSMA/blob/main/Banner%20Artista%20e%20Programadora.png" alt="banner_IsabellaSMA" width="60%">
+</p> 
 <h3 align="center">Artista e programadora</h3> <br>
 <p align="center">
-Formada em Desenvolvimento de Jogos Digitais pela ETEC de Carapicuíba e atualmente cursando Análise e Desenvolvimento de Sistemas na Faculdade Anhanguera Osasco.Estou iniciando minha carreira em Engenharia de Software e gosto de idealizar e projetar jogos como hobby.🕹️
+Formada em Desenvolvimento de Jogos Digitais pela ETEC de Carapicuíba e atualmente cursando Análise e Desenvolvimento de Sistemas na Faculdade Anhanguera Osasco. Estou iniciando minha carreira em Engenharia de Software e gosto de idealizar e projetar jogos como hobby.🕹️
 </p>
 
 #
